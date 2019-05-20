@@ -1,0 +1,70 @@
+{
+  "madvarer": [{
+      "name": "Agurk",
+      "madpakke": ["1970", "Den sunde", "Den miljøvenlige"]
+    }, {
+      "name": "Appelsin",
+      "madpakke": ["Den sunde"]
+    },
+    {
+      "name": "Banan",
+      "madpakke": ["Den sunde"]
+    },
+    {
+      "name": "Falafel",
+      "madpakke": ["Den miljøvenlige"]
+    },
+    {
+      "name": "Gulerod",
+      "madpakke": ["1970", "Den sunde", "Den miljøvenlige"]
+    },
+    {
+      "name": "Hamburgerryg",
+      "madpakke": ["1970", "Den sunde"]
+    },
+    {
+      "name": "Kyllingepålæg",
+      "madpakke": ["Den sunde", "Den miljøvenlige"]
+    },
+    {
+      "name": "Leverpostej",
+      "madpakke": ["1970"]
+    },
+    {
+      "name": "Peberfrugt",
+      "madpakke": ["Den sunde"]
+    },
+    {
+      "name": "Pære",
+      "madpakke": ["Den sunde", "Den miljøvenlige"]
+    },
+    {
+      "name": "Rugbrød",
+      "madpakke": ["1970", "Den sunde", "Den miljøvenlige"]
+    },
+    {
+      "name": "Rullepølse",
+      "madpakke": ["1970"]
+    },
+    {
+      "name": "Salat",
+      "madpakke": ["Den sunde", "Den miljøvenlige"]
+    },
+    {
+      "name": "Spegepølse",
+      "madpakke": ["1970"]
+    },
+    {
+      "name": "Tofu",
+      "madpakke": ["Den sunde"]
+    },
+    {
+      "name": "Æble",
+      "madpakke": ["Den sunde", "Den miljøvenlige"]
+    },
+    {
+      "name": "Skyr",
+      "madpakke": ["Den sunde"]
+    }
+  ]
+}
