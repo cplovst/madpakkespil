@@ -1,7 +1,7 @@
 {
   "madvarer": [{
       "name": "Agurk",
-      "madpakke": ["1970", "Den sunde", "Den miljøvenlige"]
+      "madpakke": ["1970", "Den sunde"]
     }, {
       "name": "Appelsin",
       "madpakke": ["Den sunde"]
@@ -12,11 +12,11 @@
     },
     {
       "name": "Falafel",
-      "madpakke": ["Den miljøvenlige"]
+      "madpakke": ["Den sunde"]
     },
     {
       "name": "Gulerod",
-      "madpakke": ["1970", "Den sunde", "Den miljøvenlige"]
+      "madpakke": ["1970", "Den sunde"]
     },
     {
       "name": "Hamburgerryg",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Kyllingepålæg",
-      "madpakke": ["Den sunde", "Den miljøvenlige"]
+      "madpakke": ["Den sunde"]
     },
     {
       "name": "Leverpostej",
@@ -36,11 +36,11 @@
     },
     {
       "name": "Pære",
-      "madpakke": ["Den sunde", "Den miljøvenlige"]
+      "madpakke": ["Den sunde"]
     },
     {
       "name": "Rugbrød",
-      "madpakke": ["1970", "Den sunde", "Den miljøvenlige"]
+      "madpakke": ["1970", "Den sunde"]
     },
     {
       "name": "Rullepølse",
@@ -48,7 +48,7 @@
     },
     {
       "name": "Salat",
-      "madpakke": ["Den sunde", "Den miljøvenlige"]
+      "madpakke": ["Den sunde"]
     },
     {
       "name": "Spegepølse",
@@ -60,11 +60,39 @@
     },
     {
       "name": "Æble",
-      "madpakke": ["Den sunde", "Den miljøvenlige"]
+      "madpakke": ["Den sunde"]
     },
     {
       "name": "Skyr",
       "madpakke": ["Den sunde"]
+    },
+    {
+      "name": "Yoghurt",
+      "madpakke": ["Den usunde"]
+    },
+    {
+      "name": "Ostehaps",
+      "madpakke": ["Den usunde"]
+    },
+    {
+      "name": "Mælkesnitte",
+      "madpakke": ["Den usunde"]
+    },
+    {
+      "name": "Cheez Dippers",
+      "madpakke": ["Den usunde"]
+    },
+    {
+      "name": "Toast brød",
+      "madpakke": ["Den usunde"]
+    },
+    {
+      "name": "Nutella & Go!",
+      "madpakke": ["Den usunde"]
+    },
+    {
+      "name": "Røde pølser",
+      "madpakke": ["Den usunde"]
     }
   ]
 }
