@@ -3,10 +3,6 @@
       "name": "Agurk",
       "madpakke": ["1970", "Den sunde"],
       "imgurl": "https://i.imgur.com/W07QaXJ.png"
-    }, {
-      "name": "Appelsin",
-      "madpakke": ["Den sunde"],
-      "imgurl": "https://i.imgur.com/LGSpRpt.png"
     },
     {
       "name": "Banan",
@@ -27,11 +23,6 @@
       "name": "Hamburgerryg",
       "madpakke": ["1970", "Den sunde"],
       "imgurl": "https://i.imgur.com/SX3ZaGC.png"
-    },
-    {
-      "name": "Kyllingepålæg",
-      "madpakke": ["Den sunde"],
-      "imgurl": "https://i.imgur.com/YNUhf4Q.png"
     },
     {
       "name": "Leverpostej",
@@ -59,29 +50,14 @@
       "imgurl": "https://i.imgur.com/t5x6WpK.png"
     },
     {
-      "name": "Salat",
-      "madpakke": ["Den sunde"],
-      "imgurl": "https://i.imgur.com/NbL6jcW.png"
-    },
-    {
       "name": "Spegepølse",
       "madpakke": ["1970"],
       "imgurl": "https://i.imgur.com/Uu7q4uZ.png"
     },
     {
-      "name": "Tofu",
-      "madpakke": ["Den sunde"],
-      "imgurl": "https://i.imgur.com/3SymNlJ.png"
-    },
-    {
       "name": "Æble",
       "madpakke": ["Den sunde"],
       "imgurl": "https://i.imgur.com/A4JQSKi.png"
-    },
-    {
-      "name": "Skyr",
-      "madpakke": ["Den sunde"],
-      "imgurl": "https://i.imgur.com/rEqfYkq.png"
     },
     {
       "name": "Yoghurt",
@@ -107,11 +83,6 @@
       "name": "Toast brød",
       "madpakke": ["Den usunde"],
       "imgurl": "https://i.imgur.com/ojTElwE.png"
-    },
-    {
-      "name": "Nutella & Go!",
-      "madpakke": ["Den usunde"],
-      "imgurl": "https://i.imgur.com/xDRVwtI.png"
     },
     {
       "name": "Røde pølser",
